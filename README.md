@@ -1,0 +1,2 @@
+•	By Using Python A web scraping project focused on tablet phones aims to systematically collect detailed and up-to-date information on various models from multiple online sources.
+•	Utilize libraries like requests and BeautifulSoup to retrieve and parse HTML content. Extract relevant data such as phone models, prices, specifications, and store it in a structured format like CSV or pandas DataFrame. 
